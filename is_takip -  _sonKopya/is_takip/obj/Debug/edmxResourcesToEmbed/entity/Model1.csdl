@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbistakipModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tbladmin">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullanici" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblcagrilar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cagrifirma" Type="Int32" Nullable="false" />
+    <Property Name="konu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="tblfirmalar" Relationship="Self.FK_tblcagrilar_tblfirmalar" FromRole="tblcagrilar" ToRole="tblfirmalar" />
+  </EntityType>
+  <EntityType Name="tblciro">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ciro" Type="Double" Nullable="false" />
+    <Property Name="tarih" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbldepartmanlar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="tblpersonel" Relationship="Self.FK_tblpersonel_tbldepartmanlar" FromRole="tbldepartmanlar" ToRole="tblpersonel" />
+  </EntityType>
+  <EntityType Name="tblfirmalar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="yetkili" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="sektor" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="adres" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="il" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ilce" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="tblcagrilar" Relationship="Self.FK_tblcagrilar_tblfirmalar" FromRole="tblfirmalar" ToRole="tblcagrilar" />
+  </EntityType>
+  <EntityType Name="tblgorevdetaylar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="gorev" Type="Int32" Nullable="false" />
+    <Property Name="aciklama" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="saat" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="tblgorevler" Relationship="Self.FK_tblgorevdetaylar_tblgorevler" FromRole="tblgorevdetaylar" ToRole="tblgorevler" />
+  </EntityType>
+  <EntityType Name="tblgorevler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="gorevveren" Type="Int32" Nullable="false" />
+    <Property Name="gorevalan" Type="Int32" Nullable="false" />
+    <Property Name="aciklama" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+    <Property Name="tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="tblgorevdetaylar" Relationship="Self.FK_tblgorevdetaylar_tblgorevler" FromRole="tblgorevler" ToRole="tblgorevdetaylar" />
+    <NavigationProperty Name="tblpersonel" Relationship="Self.FK_tblgorevler_tblpersonel" FromRole="tblgorevler" ToRole="tblpersonel" />
+    <NavigationProperty Name="tblpersonel1" Relationship="Self.FK_tblgorevler_tblpersonel1" FromRole="tblgorevler" ToRole="tblpersonel" />
+  </EntityType>
+  <EntityType Name="tblilceler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ilceadi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Plaka" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbliller">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sehiradi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblkategori">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kategori" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblpersonel">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="görsel" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="departman" Type="Int32" />
+    <Property Name="durum" Type="Boolean" />
+    <Property Name="cv" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="departman2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbldepartmanlar" Relationship="Self.FK_tblpersonel_tbldepartmanlar" FromRole="tblpersonel" ToRole="tbldepartmanlar" />
+    <NavigationProperty Name="tblgorevler" Relationship="Self.FK_tblgorevler_tblpersonel" FromRole="tblpersonel" ToRole="tblgorevler" />
+    <NavigationProperty Name="tblgorevler1" Relationship="Self.FK_tblgorevler_tblpersonel1" FromRole="tblpersonel" ToRole="tblgorevler" />
+  </EntityType>
+  <EntityType Name="tblurunler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="adı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="urunkodu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="urunadet" Type="Int32" Nullable="false" />
+    <Property Name="birimfiyat" Type="Double" Nullable="false" />
+    <Property Name="satisfiyat" Type="Double" Nullable="false" />
+    <Property Name="firma" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="aciklama" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="kategori" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="durum" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_tblcagrilar_tblfirmalar">
+    <End Role="tblfirmalar" Type="Self.tblfirmalar" Multiplicity="1" />
+    <End Role="tblcagrilar" Type="Self.tblcagrilar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblfirmalar">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tblcagrilar">
+        <PropertyRef Name="cagrifirma" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblpersonel_tbldepartmanlar">
+    <End Role="tbldepartmanlar" Type="Self.tbldepartmanlar" Multiplicity="0..1" />
+    <End Role="tblpersonel" Type="Self.tblpersonel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbldepartmanlar">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tblpersonel">
+        <PropertyRef Name="departman" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblgorevdetaylar_tblgorevler">
+    <End Role="tblgorevler" Type="Self.tblgorevler" Multiplicity="1" />
+    <End Role="tblgorevdetaylar" Type="Self.tblgorevdetaylar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblgorevler">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tblgorevdetaylar">
+        <PropertyRef Name="gorev" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblgorevler_tblpersonel">
+    <End Role="tblpersonel" Type="Self.tblpersonel" Multiplicity="1" />
+    <End Role="tblgorevler" Type="Self.tblgorevler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblpersonel">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tblgorevler">
+        <PropertyRef Name="gorevveren" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblgorevler_tblpersonel1">
+    <End Role="tblpersonel" Type="Self.tblpersonel" Multiplicity="1" />
+    <End Role="tblgorevler" Type="Self.tblgorevler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblpersonel">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tblgorevler">
+        <PropertyRef Name="gorevalan" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dbistakipEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="tbladmin" EntityType="Self.tbladmin" />
+    <EntitySet Name="tblcagrilar" EntityType="Self.tblcagrilar" />
+    <EntitySet Name="tblciro" EntityType="Self.tblciro" />
+    <EntitySet Name="tbldepartmanlar" EntityType="Self.tbldepartmanlar" />
+    <EntitySet Name="tblfirmalar" EntityType="Self.tblfirmalar" />
+    <EntitySet Name="tblgorevdetaylar" EntityType="Self.tblgorevdetaylar" />
+    <EntitySet Name="tblgorevler" EntityType="Self.tblgorevler" />
+    <EntitySet Name="tblilceler" EntityType="Self.tblilceler" />
+    <EntitySet Name="tbliller" EntityType="Self.tbliller" />
+    <EntitySet Name="tblkategori" EntityType="Self.tblkategori" />
+    <EntitySet Name="tblpersonel" EntityType="Self.tblpersonel" />
+    <EntitySet Name="tblurunler" EntityType="Self.tblurunler" />
+    <AssociationSet Name="FK_tblcagrilar_tblfirmalar" Association="Self.FK_tblcagrilar_tblfirmalar">
+      <End Role="tblfirmalar" EntitySet="tblfirmalar" />
+      <End Role="tblcagrilar" EntitySet="tblcagrilar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblpersonel_tbldepartmanlar" Association="Self.FK_tblpersonel_tbldepartmanlar">
+      <End Role="tbldepartmanlar" EntitySet="tbldepartmanlar" />
+      <End Role="tblpersonel" EntitySet="tblpersonel" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblgorevdetaylar_tblgorevler" Association="Self.FK_tblgorevdetaylar_tblgorevler">
+      <End Role="tblgorevler" EntitySet="tblgorevler" />
+      <End Role="tblgorevdetaylar" EntitySet="tblgorevdetaylar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblgorevler_tblpersonel" Association="Self.FK_tblgorevler_tblpersonel">
+      <End Role="tblpersonel" EntitySet="tblpersonel" />
+      <End Role="tblgorevler" EntitySet="tblgorevler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblgorevler_tblpersonel1" Association="Self.FK_tblgorevler_tblpersonel1">
+      <End Role="tblpersonel" EntitySet="tblpersonel" />
+      <End Role="tblgorevler" EntitySet="tblgorevler" />
+    </AssociationSet>
+    <EntitySet Name="tblsatis" EntityType="dbistakipModel.tblsatis" />
+  </EntityContainer>
+  <EntityType Name="tblsatis">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="urunAdı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="birimfiyat" Type="Double" Nullable="false" />
+    <Property Name="toplamfiyat" Type="Double" Nullable="false" />
+    <Property Name="tarih" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+</Schema>

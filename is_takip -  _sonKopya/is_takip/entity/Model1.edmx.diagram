@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6735900292f54ac283bdeb54089801e4" Name="Diagram1">
+        <EntityTypeShape EntityType="dbistakipModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tbladmin" Width="1.5" PointX="7.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblcagrilar" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblciro" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tbldepartmanlar" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblfirmalar" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblgorevdetaylar" Width="1.5" PointX="7.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblgorevler" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblilceler" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tbliller" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblkategori" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblpersonel" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbistakipModel.tblurunler" Width="1.5" PointX="4.75" PointY="9.75" IsExpanded="true" />
+        <AssociationConnector Association="dbistakipModel.FK_tblcagrilar_tblfirmalar" ManuallyRouted="false" />
+        <AssociationConnector Association="dbistakipModel.FK_tblpersonel_tbldepartmanlar" ManuallyRouted="false" />
+        <AssociationConnector Association="dbistakipModel.FK_tblgorevdetaylar_tblgorevler" ManuallyRouted="false" />
+        <AssociationConnector Association="dbistakipModel.FK_tblgorevler_tblpersonel" ManuallyRouted="false" />
+        <AssociationConnector Association="dbistakipModel.FK_tblgorevler_tblpersonel1" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="dbistakipModel.tblsatis" Width="1.5" PointX="10.375" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,398 @@
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\is_takip.exe.config
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\is_takip.exe
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\is_takip.pdb
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.csproj.AssemblyReference.cache
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.Form1.resources
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.Properties.Resources.resources
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.csproj.GenerateResource.cache
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.exe.licenses
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.csproj.CoreCompileInputs.cache
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.csproj.CopyComplete
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.exe
+C:\Users\isa\source\repos\is_takip\is_takip\obj\Debug\is_takip.pdb
+C:\Users\isa\source\repos\is_takip\is_takip\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\is_takip.exe.config
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\is_takip.exe
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\is_takip.pdb
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.csproj.AssemblyReference.cache
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.Form1.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.Properties.Resources.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.csproj.GenerateResource.cache
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.exe.licenses
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.csproj.CoreCompileInputs.cache
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.csproj.CopyComplete
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.exe
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.pdb
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmdepartmanlar.resources
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\EntityFramework.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\EntityFramework.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmpersoneller.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmpersonelistatistik.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmgörevlistesi.resources
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmgörev.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmgorevdetaylar.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmanaform.resources
+C:\Users\isa\Desktop\is_takip\is_takip\obj\Debug\is_takip.formlar.frmfirmalistesi.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\is_takip.exe.config
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\is_takip.exe
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\is_takip.pdb
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmanaform.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmdepartmanlar.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmfirmalistesi.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmgorevdetaylar.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmpersonelistatistik.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmpersoneller.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.exe.licenses
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.csproj.CopyComplete
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.exe
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.pdb
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frm_login.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmgorev.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip_yeni_formlardüzenli_26.04_20.30 - Kopya\is_takip - Kopya\is_takip\obj\Debug\is_takip.formlar.frmgorevlistesi.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.exe.config
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.exe
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.pdb
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.AssemblyReference.cache
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.Form1.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frm_login.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmanaform.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmdepartmanlar.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmfirmalistesi.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorevdetaylar.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorev.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmpersonelistatistik.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmpersoneller.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorevlistesi.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.Properties.Resources.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.GenerateResource.cache
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe.licenses
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.CoreCompileInputs.cache
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.CopyComplete
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.pdb
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.exe.manifest
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.application
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe.manifest
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.application
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmürünler.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmciro.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmkategori.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmsatis.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmdetay.resources
+C:\Users\isa\Desktop\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmrapor.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.exe.config
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.exe.manifest
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.application
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.exe
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\is_takip.pdb
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmciro.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmrapor.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmdetay.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmkategori.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmsatis.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frm_login.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmanaform.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmdepartmanlar.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmfirmalistesi.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorevdetaylar.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorev.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmpersonelistatistik.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmpersoneller.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorevlistesi.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmürünler.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe.licenses
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe.manifest
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.application
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.CopyComplete
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe
+C:\Users\furka\OneDrive\Masaüstü\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.pdb
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.AssemblyReference.cache
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.Form1.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmciro.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmrapor.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmdetay.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmkategori.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmsatis.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frm_login.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmanaform.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmdepartmanlar.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmfirmalistesi.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorevdetaylar.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorev.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmpersonelistatistik.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmpersoneller.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmgorevlistesi.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.formlar.frmürünler.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.Properties.Resources.resources
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.csproj.GenerateResource.cache
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe.licenses
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.exe
+D:\Yeni klasör\21.07.23\okul falan\is_takip -  _SON\is_takip -  _sonKopya\is_takip\obj\Debug\is_takip.pdb
